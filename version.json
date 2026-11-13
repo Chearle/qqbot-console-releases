@@ -5,19 +5,19 @@
   "tag": "v1.0.13",
   "name": "QQ Bot Console v1.0.13",
   "channel": "stable",
-  "publishedAt": "2026-11-13T03:35:05.920Z",
+  "publishedAt": "2026-11-13T03:57:46.272Z",
   "releaseUrl": "https://github.com/Chearle/qqbot-console-releases/releases/tag/v1.0.13",
   "downloads": {
     "win-x64": {
       "name": "qqbot-console-win-x64.zip",
-      "size": 38832762,
-      "sha256": "bda42502f87c438fb643551793c1eb6a3c69448057a047d629da7d9f0233c0db",
+      "size": 38847363,
+      "sha256": "9c994eb349f756440217b0d745715c858109a1bbe043ae1f9afe0671d5567d26",
       "url": "https://github.com/Chearle/qqbot-console-releases/releases/download/v1.0.13/qqbot-console-win-x64.zip"
     },
     "linux-x64": {
       "name": "qqbot-console-linux-x64.tar.gz",
-      "size": 47277375,
-      "sha256": "949d8191082b02c6433c53c13f1084312d6ddbaea5f08a8b69f26b947f73b65d",
+      "size": 47291262,
+      "sha256": "3aed847d4e59f1eac7abb69e9b8b30733cc6c54639a43e54750d645c82b020e1",
       "url": "https://github.com/Chearle/qqbot-console-releases/releases/download/v1.0.13/qqbot-console-linux-x64.tar.gz"
     }
   }
